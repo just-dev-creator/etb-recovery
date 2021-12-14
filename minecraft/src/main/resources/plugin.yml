@@ -1,0 +1,4 @@
+name: ItemRecovery
+version: '${project.version}'
+main: tech.justcoding.itemrecovery.Main
+api-version: 1.18
